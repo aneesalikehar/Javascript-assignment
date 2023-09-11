@@ -48,7 +48,7 @@
 
 // var colorAddEnd = prompt("Enter Color into the begning");
 // color.push(colorAddEnd);
-// document.write("</br>")
+// document.write("< /br>")
 // document.write(color);
 
 // var colorAddStart = prompt("Enter Color into the begning");
